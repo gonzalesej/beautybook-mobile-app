@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811611874635",
+    "project_id": "beautybookdb",
+    "storage_bucket": "beautybookdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811611874635:android:a472a29e7bb90bb3c7f4ce",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu-hG57NX7Y8Ck7bOSMMtz1kQB-28RRO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
